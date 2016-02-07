@@ -79,4 +79,11 @@
 		</dependency>
 	</dependencies>
 	<groupId>examples.juni4</groupId>
+
+	<repositories>
+      <repository>
+	<id>JBoss repository</id>
+	<url>http://repository.jboss.org/nexus/content/groups/public/</url>
+      </repository>
+    </repositories>
 </project>
